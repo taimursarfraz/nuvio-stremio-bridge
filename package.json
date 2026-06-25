@@ -1,0 +1,13 @@
+{
+  "name": "nuvio-stremio-bridge",
+  "version": "1.0.0",
+  "description": "Stremio addon bridge for Nuvio providers — runs in the cloud",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "GPL-3.0"
+}

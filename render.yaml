@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: nuvio-stremio-bridge
+    runtime: node
+    buildCommand: ""
+    startCommand: node index.js
+    envVars:
+      - key: PORT
+        value: 3000
+    plan: free
