@@ -1,0 +1,13 @@
+{
+  "name": "nuvio-mega-bridge",
+  "version": "1.0.0",
+  "description": "Stremio addon merging 5 Nuvio provider repos — 79 unique providers",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "GPL-3.0"
+}
